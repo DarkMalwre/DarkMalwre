@@ -5,6 +5,8 @@ Hi! I am DarkMalware, a 13 year old guy, which loves to code. I enjoy writing in
 * Trading algorithm in python
 * Mulit-Purpose Discord bot
 
+Currently learning JavaScript, NodeJS, ReactJS and TypeScript
+
 ### Contact me
 
 Discord: DarkMalware (Direct Messages are open)
