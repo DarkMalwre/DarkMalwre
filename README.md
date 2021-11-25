@@ -3,7 +3,7 @@ Hi! I am DarkMalware, a 13 year old guy, which loves to code. I enjoy writing in
 
 ### The projects I'm currently working on:
 * Trading algorithm in python
-* Mulit-Purpose Discord bot
+* Multi-Purpose Discord bot
 
 Currently learning JavaScript, NodeJS, ReactJS and TypeScript
 
